@@ -1,0 +1,76 @@
+  div{
+    width: 85%;
+    margin: auto;
+  }
+  
+  p{
+    color: rgb(5, 45, 243);
+    background-color: aquamarine;
+    border: 2px solid gold;
+    padding: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+html{
+    background-image: url(../html-css/images/8324.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+h1{
+    color: green;
+    border: 2px dashed blue;
+    position: sticky;
+    top: 5%;
+}
+h2{
+    color: brown;
+}
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: darkorange;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+ul li{
+    color:#146803;
+    background: rgb(238, 107, 0);
+    display: block;
+    border: 1px blue;
+    float: left;
+    padding: 10px;
+    position: relative;
+    text-decoration: none;
+}
+ul li a{
+    color: #ff00c8;
+}
+ul li:hover{
+    background: red;
+    cursor: pointer;
+}
+ul li ul{
+    background: orange;
+}
+h4{
+    color: green;
+}
+ol{
+    color: orangered;
+}
+table{
+    color: brown;
+}
+img{
+    border: 8px solid rgb(254, 11, 88);
+   margin: 1px 2px 3px 10px;
+
+}
+
+label{
+   color: brown;
+}
+ 
+legend{
+    color: yellow;
+}
